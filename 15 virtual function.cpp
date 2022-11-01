@@ -33,5 +33,6 @@ int main()
 {
 	base *obj=new derived;
 	(*obj).speak();
+	
 	return 0;
 }
